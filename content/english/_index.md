@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "See my projects"
-    link: "/projects"
+    link: "/project"
   button2:
     enable: true
     label: "Read my Journey"
