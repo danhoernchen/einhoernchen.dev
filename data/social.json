@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "mastodon",
+      "icon": "fab fa-mastodon",
+      "link": "https://mastodon.social/@danhoernchen"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/danhoernchen"
+    }
+  ]
+}
