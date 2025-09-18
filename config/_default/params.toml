@@ -68,7 +68,7 @@ google = ""   # Your verification code
 bing = ""     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
-mastodon = "" # Your verification code
+mastodon = "https://mastodon.social/@danhoernchen" # Your verification code
 
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
