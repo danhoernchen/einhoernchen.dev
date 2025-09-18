@@ -6,9 +6,12 @@ description: "A small website using HTML, CSS and a dash of JS."
 date: 2025-09-17
 image: "/images/dogventures.png"
 project_categories: ["HTML", "CSS"]
-url: "danhoernchen.github.io/CSSFromScratch/"
 author: "daniel"
 draft: false
+button:
+  enable: true
+  label: "Have a look"
+  link: "https://danhoernchen.github.io/CSSFromScratch/"
 ---
 
 A Website created with HTML, CSS and a bit of JS.

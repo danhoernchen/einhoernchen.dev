@@ -9,6 +9,10 @@ url: "github.com/danhoernchen/FullStackOpen"
 project_categories: ["HTML", "CSS", "JS", "react", "express", "node"]
 author: "daniel"
 draft: false
+button:
+  enable: true
+  label: "Check the repo"
+  link: "https://github.com/danhoernchen/FullStackOpen"
 ---
 
 My Repo for FulLStackOpen Exercise submissions.

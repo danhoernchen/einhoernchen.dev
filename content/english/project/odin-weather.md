@@ -6,9 +6,12 @@ description: "A simple weather app"
 date: 2025-09-17
 image: "/images/odinweather.png"
 project_categories: ["JS"]
-url: "danhoernchen.github.io/odin-weather-app/"
 author: "daniel"
 draft: false
+button:
+  enable: true
+  label: "See it in action"
+  link: "https://danhoernchen.github.io/odin-weather-app/"
 ---
 
 A simple little weather app, part of the Odin Project Curriculum.
