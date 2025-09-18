@@ -5,14 +5,12 @@ type: project
 description: A simple random-fact site
 date: 2025-09-17
 image: /images/randfact.png
-url: https://danhoernchen.github.io/random-facts/
-project_categories:
 author: daniel
 draft: false
 button:
-  - enable: true
-  - label: Check the repo
-  - link:
+  enable: true
+  label: Check the repo
+  link:
 ---
 
 **Project Title**
