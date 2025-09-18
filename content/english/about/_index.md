@@ -11,4 +11,4 @@ I live in Lower Saxony, Germany, and after a late ADHD diagnosis in my 40s, I’
 
 This site is part portfolio, part blog, part workshop. It’s where I share what I’m learning — from web development to design experiments — and also reflect on the journey of figuring out what it means to build something meaningful as an indie developer.
 
-If you’d like to connect, you can reach me via email or the social links below.
+If you’d like to connect, you can reach me on [Mastodon](https://mastodon.social/@danhoernchen) or drop me a message right [here](/contact).

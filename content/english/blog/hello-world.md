@@ -28,4 +28,4 @@ The good news: the resources today are incredible. The Odin Project, FullStackOp
 ### Why This Site Exists
 
 This space is my workshop, my notebook, my accountability partner. Some of it will be messy. Some of it might be useful. All of it will be real.
-If you’re curious, want to connect, or just want to say hi — you can find me through the links below. For now, thanks for reading, and welcome to my little corner of the internet.
+If you’re curious, want to connect, or just want to say hi — you can find me on [Mastodon](https://mastodon.social/@danhoernchen) or drop me a message right [here](/contact). For now, thanks for reading, and welcome to my little corner of the internet.
