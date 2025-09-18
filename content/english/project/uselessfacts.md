@@ -8,7 +8,7 @@ image: /images/randfact.png
 author: daniel
 draft: false
 button:
-  enable: true
+  enable: false
   label: Check the repo
   link:
 ---
