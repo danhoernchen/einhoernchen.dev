@@ -3,7 +3,7 @@ title: "Dogventures - HTML/CSS"
 meta_title: ""
 type: "project"
 description: "A small website using HTML, CSS and a dash of JS."
-date: 2025-09-17
+date: 2025-09-15
 image: "/images/dogventures.png"
 project_categories: ["HTML", "CSS"]
 author: "daniel"

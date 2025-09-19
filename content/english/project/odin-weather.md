@@ -3,7 +3,7 @@ title: "Odin Weather App"
 meta_title: ""
 type: "project"
 description: "A simple weather app"
-date: 2025-09-17
+date: 2025-08-01
 image: "/images/odinweather.png"
 project_categories: ["JS"]
 author: "daniel"

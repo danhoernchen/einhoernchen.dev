@@ -3,7 +3,7 @@ title: "Etch-a-sketch - HTML/CSS"
 meta_title: ""
 type: "project"
 description: "A simple little etch-a-sketch app"
-date: 2025-09-17
+date: 2025-09-01
 image: "/images/odinetch.png"
 project_categories: ["HTML", "CSS", "JS"]
 author: "daniel"

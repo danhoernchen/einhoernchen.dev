@@ -3,7 +3,7 @@ title: Random Facts
 meta_title: Random Fact Project
 type: project
 description: A simple random-fact site
-date: 2025-09-17
+date: 2025-09-19
 image: /images/randfact.png
 author: daniel
 draft: false

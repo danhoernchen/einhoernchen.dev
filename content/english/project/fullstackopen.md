@@ -3,7 +3,7 @@ title: "FullStackOpen"
 meta_title: ""
 type: "project"
 description: "My FullStackOpen Repo"
-date: 2025-09-17
+date: 2025-07-17
 image: "/images/fullstackopen.png"
 url: "github.com/danhoernchen/FullStackOpen"
 project_categories: ["HTML", "CSS", "JS", "react", "express", "node"]
