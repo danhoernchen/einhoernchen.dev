@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
+title: "Read my blog posts"
 image: "/images/call-to-action.png"
 description: "Read my Blog posts"
 button:
