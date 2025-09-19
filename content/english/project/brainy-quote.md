@@ -9,6 +9,7 @@ url: "github.com/danhoernchen/brainy-quote"
 project_categories: ["Project", "JS", "Obsidian"]
 author: "daniel"
 draft: false
+weight: 1
 button:
   enable: true
   label: "Give it a try"

@@ -8,6 +8,7 @@ image: "/images/dogventures.png"
 project_categories: ["HTML", "CSS"]
 author: "daniel"
 draft: false
+weight: 0
 button:
   enable: true
   label: "Have a look"

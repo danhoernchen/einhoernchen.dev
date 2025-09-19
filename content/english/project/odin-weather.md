@@ -8,6 +8,7 @@ image: "/images/odinweather.png"
 project_categories: ["JS"]
 author: "daniel"
 draft: false
+weight: 6
 button:
   enable: true
   label: "See it in action"
