@@ -8,7 +8,7 @@ image: "/images/odinetch.png"
 project_categories: ["HTML", "CSS", "JS"]
 author: "daniel"
 draft: false
-weight: 4
+weight: 5
 button:
   enable: true
   label: "Try it out"

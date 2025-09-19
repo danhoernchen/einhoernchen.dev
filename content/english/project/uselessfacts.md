@@ -7,7 +7,7 @@ date: 2025-09-17
 image: /images/randfact.png
 author: daniel
 draft: false
-weight: 5
+weight: 4
 button:
   enable: false
   label: Check the repo
