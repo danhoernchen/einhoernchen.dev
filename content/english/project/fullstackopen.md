@@ -9,7 +9,7 @@ url: "github.com/danhoernchen/FullStackOpen"
 project_categories: ["HTML", "CSS", "JS", "react", "express", "node"]
 author: "daniel"
 draft: false
-weight: 3
+weight: 99
 button:
   enable: true
   label: "Check the repo"
