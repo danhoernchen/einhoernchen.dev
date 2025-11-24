@@ -1,5 +1,5 @@
 ---
-title: "Good Enoug Is Perfect"
+title: "Good Enough Is Perfect"
 meta_title: ""
 description: "A small learning breakthrough: trying first, caring less about ‘perfect,’ and getting comfortable with messy progress.”"
 date: 2025-11-24
